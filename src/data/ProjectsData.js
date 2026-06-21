@@ -1,8 +1,8 @@
 import Screenshot1 from '../assets/Screenshot1.png';
 import Screenshot2 from '../assets/Screenshot2.png';
 import Food1 from '../assets/Home.png';
-import Food2 from '../assets/signup.png';
-import Food3 from '../assets/chatbot.png';
+
+
 export const projects = [
    {
     id: 1,
@@ -12,7 +12,7 @@ export const projects = [
     tech: ['HTML', 'CSS', 'BootStrap', 'JavaScript'],
     liveUrl: 'Coming Soon',
     repoUrl: '',
-    image:  [Food1,Food2,Food3],// ← FIXED: use imported variable, not string,
+    image:  [Food1],// ← FIXED: use imported variable, not string,
   },
   {
     id: 2,

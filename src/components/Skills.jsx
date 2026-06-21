@@ -1,4 +1,4 @@
-import React from "react";
+
 
 function Skills() {
   const frontend = ["HTML5", "CSS3", "JavaScript", "React.js", "Bootstrap"];

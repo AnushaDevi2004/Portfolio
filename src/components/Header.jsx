@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { AiFillHome } from 'react-icons/ai';
 import { IoMdPerson } from 'react-icons/io';
 import { BsBriefcase } from 'react-icons/bs';
